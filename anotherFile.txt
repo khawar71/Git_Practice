@@ -1,1 +1,2 @@
-﻿Updated in master then Changed in tempBranch
+﻿Updated in master then Changed in tempBranch. 
+Changed in Git_Practice
